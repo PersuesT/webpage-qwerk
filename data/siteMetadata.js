@@ -1,16 +1,16 @@
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
+  title: 'Tom\'s Blog',
   author: 'Tom Schneeweis',
-  headerTitle: 'TailwindBlog',
+  headerTitle: 'Tom\'s Blog',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
-  theme: 'system', // system, dark or light
+  theme: 'dark', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
+  email: 'tomschneeweis@tuta.io',
   github: 'https://github.com',
   twitter: 'https://twitter.com/Twitter',
   facebook: 'https://facebook.com',
